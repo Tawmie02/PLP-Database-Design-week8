@@ -26,6 +26,9 @@ The database consists of 8 main tables:
 7. **documents** - Stores student document information
 8. **payments** - Tracks scholarship payments
 
+## Entity Relationship Diagram
+
+Scholarship Database ERD(scholarship_erd.png)
 
 ## Setup Instructions
 
